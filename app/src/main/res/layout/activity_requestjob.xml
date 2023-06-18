@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/bg12"
+    android:background="@drawable/bck"
     tools:context=".RequestJob">
 
     <TextView
@@ -13,29 +13,13 @@
         android:layout_height="56dp"
         android:layout_marginStart="7dp"
         android:layout_marginTop="44dp"
-        android:layout_marginBottom="38dp"
         android:fontFamily="sans-serif-medium"
         android:text="@string/tv_request_job"
         android:textAppearance="@style/TextAppearance.AppCompat.Display1"
         android:textColor="@color/black"
         android:textSize="28sp"
-        app:layout_constraintBottom_toBottomOf="@+id/reqjob"
         app:layout_constraintStart_toEndOf="@+id/backimgR"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.0" />
-
-    <pl.droidsonroids.gif.GifImageView
-        android:id="@+id/reqjob"
-        android:layout_width="148dp"
-        android:layout_height="137dp"
-        android:layout_marginStart="21dp"
-        android:src="@drawable/reqj"
-        app:layout_constraintBottom_toTopOf="@+id/et_job_title"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.58"
-        app:layout_constraintStart_toEndOf="@+id/tv_request_job"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.0" />
+        app:layout_constraintTop_toTopOf="parent" />
 
     <ImageView
         android:id="@+id/backimgR"

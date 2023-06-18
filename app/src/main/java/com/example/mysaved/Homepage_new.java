@@ -24,6 +24,7 @@ import android.widget.SearchView;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import com.google.firebase.FirebaseApp;
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.database.DataSnapshot;
 import com.google.firebase.database.DatabaseError;
@@ -70,6 +71,9 @@ public class Homepage_new extends AppCompatActivity {
         nav_savedreqjobs_txt = findViewById(R.id.tv_nav_savedreqjobs);
         nav_profile_txt = findViewById(R.id.tv_nav_profile);
 
+
+        DatabaseReference databaseRef = FirebaseDatabase.getInstance().getReference();
+        databaseRef.child("user").child("userId").setValue("John Doe");
         //get current instance of firebase authentication
         fAuth = FirebaseAuth.getInstance();
 

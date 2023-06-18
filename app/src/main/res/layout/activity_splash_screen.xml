@@ -9,16 +9,16 @@
 
     <ImageView
         android:id="@+id/imageView16"
-        android:layout_width="405dp"
-        android:layout_height="322dp"
+        android:layout_width="270dp"
+        android:layout_height="250dp"
         android:layout_marginTop="80dp"
+        android:background="#0B1829"
         app:layout_constraintBottom_toTopOf="@+id/imageView17"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.182"
-        app:srcCompat="@drawable/js_png" />
+        app:srcCompat="@drawable/ck" />
 
     <TextView
         android:id="@+id/textView4"
@@ -27,12 +27,12 @@
         android:layout_marginBottom="200dp"
         android:fontFamily="@font/roboto"
         android:letterSpacing="0.3"
-        android:text="Find Your Dream Job"
+        android:text="A Platform Built for Transforming Your Career"
         android:textAlignment="center"
         android:textAllCaps="false"
         android:textColor="@color/Gray79"
         android:textColorHint="@color/white"
-        android:textSize="16sp"
+        android:textSize="17sp"
         android:textStyle="bold"
         android:typeface="normal"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -40,7 +40,7 @@
         app:layout_constraintHorizontal_bias="0.492"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/imageView16"
-        app:layout_constraintVertical_bias="1.0" />
+        app:layout_constraintVertical_bias="0.82" />
 
     <ImageView
         android:id="@+id/imageView17"
@@ -50,6 +50,6 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/imageView16"
-        app:srcCompat="@drawable/splash1" />
+        app:srcCompat="@drawable/devs" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>

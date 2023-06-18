@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
     package="com.example.mysaved">
 
     <uses-permission android:name="android.permission.INTERNET" />
@@ -12,6 +13,15 @@
         android:roundIcon="@mipmap/logo_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.MySaved">
+
+        <!-- Add this line to override the library usage -->
+        <uses-library
+            android:name="com.google.firebase.firebase_analytics"
+            android:required="false"
+            tools:node="merge"
+            tools:overrideLibrary="com.google.firebase.firebase_analytics" />
+
+        <!-- Add the launch activity with intent filter -->
         <activity android:name=".SplashScreen"
             android:exported="true">
             <intent-filter>
@@ -77,10 +87,15 @@
         <activity
             android:name=".CreateJob"
             android:exported="true" />
+<!--            <intent-filter>-->
+<!--                <action android:name="android.intent.action.MAIN" />-->
+
+<!--                <category android:name="android.intent.category.LAUNCHER" />-->
+<!--            </intent-filter>-->
+
 
         <meta-data
             android:name="preloaded_fonts"
             android:resource="@array/preloaded_fonts" />
     </application>
-
 </manifest>

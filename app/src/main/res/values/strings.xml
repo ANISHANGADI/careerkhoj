@@ -101,32 +101,41 @@
     </string-array>
 
     <string-array name="districts_sm">
-        <item> Select District</item>
-        <item> Ampara</item>
-        <item> Anuradhapura</item>
-        <item> Badulla</item>
-        <item> Batticaloa</item>
-        <item> Colombo</item>
-        <item> Galle</item>
-        <item> Gampaha</item>
-        <item> Hambantota</item>
-        <item> Jaffna</item>
-        <item> Kalutara</item>
-        <item> Kandy</item>
-        <item> Kegalle</item>
-        <item> Kilinochchi</item>
-        <item> Kurunegala</item>
-        <item> Mannar</item>
-        <item> Matale</item>
-        <item> Matara</item>
-        <item> Monaragala</item>
-        <item> Mullaitivu</item>
-        <item> Nuwara Eliya</item>
-        <item> Polonnaruwa</item>
-        <item> Puttalam</item>
-        <item> Ratnapura</item>
-        <item> Trincomalee</item>
-        <item> Vavuniya</item>
+        <item>Andhra Pradesh</item>
+        <item>Arunachal Pradesh</item>
+        <item>Assam</item>
+        <item>Bihar</item>
+        <item>Chhattisgarh</item>
+        <item>Goa</item>
+        <item>Gujarat</item>
+        <item>Haryana</item>
+        <item>Himachal Pradesh</item>
+        <item>Jharkhand</item>
+        <item>Karnataka</item>
+        <item>Kerala</item>
+        <item>Madhya Pradesh</item>
+        <item>Maharashtra</item>
+        <item>Manipur</item>
+        <item>Meghalaya</item>
+        <item>Mizoram</item>
+        <item>Nagaland</item>
+        <item>Odisha</item>
+        <item>Punjab</item>
+        <item>Rajasthan</item>
+        <item>Sikkim</item>
+        <item>Tamil Nadu</item>
+        <item>Telangana</item>
+        <item>Tripura</item>
+        <item>Uttar Pradesh</item>
+        <item>Uttarakhand</item>
+        <item>West Bengal</item>
+        <item>Andaman and Nicobar Islands</item>
+        <item>Chandigarh</item>
+        <item>Dadra and Nagar Haveli</item>
+        <item>Daman and Diu</item>
+        <item>Lakshadweep</item>
+        <item>Delhi</item>
+        <item>Puducherry</item>
     </string-array>
 
     <string-array name="genderR">
@@ -136,32 +145,42 @@
     </string-array>
 
     <string-array name="districts_smm">
-        <item> Select District</item>
-        <item> Ampara</item>
-        <item> Anuradhapura</item>
-        <item> Badulla</item>
-        <item> Batticaloa</item>
-        <item> Colombo</item>
-        <item> Galle</item>
-        <item> Gampaha</item>
-        <item> Hambantota</item>
-        <item> Jaffna</item>
-        <item> Kalutara</item>
-        <item> Kandy</item>
-        <item> Kegalle</item>
-        <item> Kilinochchi</item>
-        <item> Kurunegala</item>
-        <item> Mannar</item>
-        <item> Matale</item>
-        <item> Matara</item>
-        <item> Monaragala</item>
-        <item> Mullaitivu</item>
-        <item> Nuwara Eliya</item>
-        <item> Polonnaruwa</item>
-        <item> Puttalam</item>
-        <item> Ratnapura</item>
-        <item> Trincomalee</item>
-        <item> Vavuniya</item>
+        <item> Select State</item>
+        <item>Andhra Pradesh</item>
+        <item>Arunachal Pradesh</item>
+        <item>Assam</item>
+        <item>Bihar</item>
+        <item>Chhattisgarh</item>
+        <item>Goa</item>
+        <item>Gujarat</item>
+        <item>Haryana</item>
+        <item>Himachal Pradesh</item>
+        <item>Jharkhand</item>
+        <item>Karnataka</item>
+        <item>Kerala</item>
+        <item>Madhya Pradesh</item>
+        <item>Maharashtra</item>
+        <item>Manipur</item>
+        <item>Meghalaya</item>
+        <item>Mizoram</item>
+        <item>Nagaland</item>
+        <item>Odisha</item>
+        <item>Punjab</item>
+        <item>Rajasthan</item>
+        <item>Sikkim</item>
+        <item>Tamil Nadu</item>
+        <item>Telangana</item>
+        <item>Tripura</item>
+        <item>Uttar Pradesh</item>
+        <item>Uttarakhand</item>
+        <item>West Bengal</item>
+        <item>Andaman and Nicobar Islands</item>
+        <item>Chandigarh</item>
+        <item>Dadra and Nagar Haveli</item>
+        <item>Daman and Diu</item>
+        <item>Lakshadweep</item>
+        <item>Delhi</item>
+        <item>Puducherry</item>
     </string-array>
 
     <!-- Amila's Strings-->
@@ -194,17 +213,42 @@
     </string-array>
 
     <string-array name="districts">
-        <item>Select District</item>
-        <item>Ampara</item>
-        <item>Anuradhapura</item>
-        <item>Badulla</item>
-        <item>Batticaloa</item>
-        <item>Colombo</item>
-        <item>Galle</item>
-        <item>Gampaha</item>
-        <item>Hambantota</item>
-        <item>Jaffna</item>
-        <item>Kalutara</item>
+        <item>Select a state</item>
+        <item>Andhra Pradesh</item>
+        <item>Arunachal Pradesh</item>
+        <item>Assam</item>
+        <item>Bihar</item>
+        <item>Chhattisgarh</item>
+        <item>Goa</item>
+        <item>Gujarat</item>
+        <item>Haryana</item>
+        <item>Himachal Pradesh</item>
+        <item>Jharkhand</item>
+        <item>Karnataka</item>
+        <item>Kerala</item>
+        <item>Madhya Pradesh</item>
+        <item>Maharashtra</item>
+        <item>Manipur</item>
+        <item>Meghalaya</item>
+        <item>Mizoram</item>
+        <item>Nagaland</item>
+        <item>Odisha</item>
+        <item>Punjab</item>
+        <item>Rajasthan</item>
+        <item>Sikkim</item>
+        <item>Tamil Nadu</item>
+        <item>Telangana</item>
+        <item>Tripura</item>
+        <item>Uttar Pradesh</item>
+        <item>Uttarakhand</item>
+        <item>West Bengal</item>
+        <item>Andaman and Nicobar Islands</item>
+        <item>Chandigarh</item>
+        <item>Dadra and Nagar Haveli</item>
+        <item>Daman and Diu</item>
+        <item>Lakshadweep</item>
+        <item>Delhi</item>
+        <item>Puducherry</item>
     </string-array>
 
     <string-array name="gender">
@@ -284,31 +328,41 @@
 
 
     <string-array name="districts_vp">
-        <item> Ampara</item>
-        <item> Anuradhapura</item>
-        <item> Badulla</item>
-        <item> Batticaloa</item>
-        <item> Colombo</item>
-        <item> Galle</item>
-        <item> Gampaha</item>
-        <item> Hambantota</item>
-        <item> Jaffna</item>
-        <item> Kalutara</item>
-        <item> Kandy</item>
-        <item> Kegalle</item>
-        <item> Kilinochchi</item>
-        <item> Kurunegala</item>
-        <item> Mannar</item>
-        <item> Matale</item>
-        <item> Matara</item>
-        <item> Monaragala</item>
-        <item> Mullaitivu</item>
-        <item> Nuwara Eliya</item>
-        <item> Polonnaruwa</item>
-        <item> Puttalam</item>
-        <item> Ratnapura</item>
-        <item> Trincomalee</item>
-        <item> Vavuniya</item>
+        <item>Andhra Pradesh</item>
+        <item>Arunachal Pradesh</item>
+        <item>Assam</item>
+        <item>Bihar</item>
+        <item>Chhattisgarh</item>
+        <item>Goa</item>
+        <item>Gujarat</item>
+        <item>Haryana</item>
+        <item>Himachal Pradesh</item>
+        <item>Jharkhand</item>
+        <item>Karnataka</item>
+        <item>Kerala</item>
+        <item>Madhya Pradesh</item>
+        <item>Maharashtra</item>
+        <item>Manipur</item>
+        <item>Meghalaya</item>
+        <item>Mizoram</item>
+        <item>Nagaland</item>
+        <item>Odisha</item>
+        <item>Punjab</item>
+        <item>Rajasthan</item>
+        <item>Sikkim</item>
+        <item>Tamil Nadu</item>
+        <item>Telangana</item>
+        <item>Tripura</item>
+        <item>Uttar Pradesh</item>
+        <item>Uttarakhand</item>
+        <item>West Bengal</item>
+        <item>Andaman and Nicobar Islands</item>
+        <item>Chandigarh</item>
+        <item>Dadra and Nagar Haveli</item>
+        <item>Daman and Diu</item>
+        <item>Lakshadweep</item>
+        <item>Delhi</item>
+        <item>Puducherry</item>
     </string-array>
 
     <string-array name="gender_vp">
